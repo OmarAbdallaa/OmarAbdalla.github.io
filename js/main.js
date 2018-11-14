@@ -12,9 +12,9 @@
     }
 
     function tagsGenerator() {
-        var skillsJavascript = ['Javascript', 'AngularJs', 'Angular +2', 'Express', 'Nodejs', 'Karma', 'jquery', 'Grunt', 'Gulp', 'Sinon', 'Chai', 'Mocha', 'Jasmine', 'Protractor', 'Chrome Extensions', 'Ionic 1', 'Ionic 2/3', 'Typescript', 'Cordova', 'Reactjs', 'Redux'],
-            skillsPhp = ['PHP', 'Zend Framework', 'Laravel', 'phpUnit', 'composer', 'poo', 'Maven', 'ant', 'Jbehave', 'Selenium', 'Java', 'MySQL', 'mongodb', 'Rest services', 'Python', 'Django', 'Ruby', 'HapiJs'],
-            skillsOthers = ['HTML5', 'CSS3', 'less', 'sass', 'git', 'perforce', 'Heroku', 'Codeship', 'Bitbucket', 'Jenkins', 'Bower', 'Atlassian tools', 'Agile methodology', 'Responsive design', 'Jade', 'WebPack'],
+        var skillsJavascript = ['Javascript', 'Nodejs', 'jquery', 'Grunt', 'Gulp',  'Chrome Extensions',  'Ionic 2/3', 'Typescript',  'Reactjs', 'Redux'],
+            skillsPhp = ['PHP', 'Laravel', 'phpUnit', 'composer', 'poo', 'Maven', 'Java', 'MySQL', 'mongodb', 'Rest services'],
+            skillsOthers = ['HTML5', 'CSS3', 'sass', 'git', 'Heroku', 'Bitbucket', 'Jenkins', 'Agile methodology', 'Responsive design', 'WebPack'],
             colors = ['btn-info', 'btn-success', 'btn-danger', 'btn-primary', 'btn-warning'],
             i = 0;
 
